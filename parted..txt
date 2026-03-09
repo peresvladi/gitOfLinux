@@ -1,0 +1,1 @@
+parted /mnt/usb mklabel gpt
