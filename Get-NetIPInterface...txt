@@ -1,0 +1,18 @@
+
+PS C:\Users\Ohrana> Get-NetIPInterface
+
+ifIndex InterfaceAlias                  AddressFamily NlMtu(Bytes) InterfaceMet
+                                                                            ric
+------- --------------                  ------------- ------------ ------------
+16      Ethernet 2                      IPv6                  1500           25
+7       Подключение по локальной сет... IPv6                  1500           25
+12      Подключение по локальной сет... IPv6                  1500           25
+23      Ethernet                        IPv6                  1500           35
+8       Беспроводная сеть               IPv6                  1500           40
+1       Loopback Pseudo-Interface 1     IPv6            4294967295           75
+16      Ethernet 2                      IPv4                  1500           25
+7       Подключение по локальной сет... IPv4                  1500           25
+12      Подключение по локальной сет... IPv4                  1500           25
+23      Ethernet                        IPv4                  1500           35
+8       Беспроводная сеть               IPv4                  1500           40
+1       Loopback Pseudo-Interface 1     IPv4            4294967295           75
